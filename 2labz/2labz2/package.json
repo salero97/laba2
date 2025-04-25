@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "ts-node --esm 2t.ts",
+    "build": "tsc",
+    "run": "node dist/2t.js"
+  },
+  "name": "2labz2",
+  "version": "1.0.0",
+  "main": "2.js",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "scripts1": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

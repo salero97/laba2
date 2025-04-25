@@ -1,0 +1,14 @@
+/home/salero/2labz/2labz2/2cs/bin/Debug/net8.0/2cs
+/home/salero/2labz/2labz2/2cs/bin/Debug/net8.0/2cs.deps.json
+/home/salero/2labz/2labz2/2cs/bin/Debug/net8.0/2cs.runtimeconfig.json
+/home/salero/2labz/2labz2/2cs/bin/Debug/net8.0/2cs.dll
+/home/salero/2labz/2labz2/2cs/bin/Debug/net8.0/2cs.pdb
+/home/salero/2labz/2labz2/2cs/obj/Debug/net8.0/2cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/salero/2labz/2labz2/2cs/obj/Debug/net8.0/2cs.AssemblyInfoInputs.cache
+/home/salero/2labz/2labz2/2cs/obj/Debug/net8.0/2cs.AssemblyInfo.cs
+/home/salero/2labz/2labz2/2cs/obj/Debug/net8.0/2cs.csproj.CoreCompileInputs.cache
+/home/salero/2labz/2labz2/2cs/obj/Debug/net8.0/2cs.dll
+/home/salero/2labz/2labz2/2cs/obj/Debug/net8.0/refint/2cs.dll
+/home/salero/2labz/2labz2/2cs/obj/Debug/net8.0/2cs.pdb
+/home/salero/2labz/2labz2/2cs/obj/Debug/net8.0/2cs.genruntimeconfig.cache
+/home/salero/2labz/2labz2/2cs/obj/Debug/net8.0/ref/2cs.dll
